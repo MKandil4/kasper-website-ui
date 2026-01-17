@@ -5,23 +5,23 @@ This is a modern, responsive website template built as a front-end practice proj
 ---
 
 ## 🛠 Built With
-- ✔️ HTML  
-- ✔️ CSS
+ ✔️ HTML  
+ ✔️ CSS
 
 ---
 
 ## 🎯 Key Features & Concepts Practiced
 
-- 🔸 Semantic HTML structure for better readability and SEO.  
-- 🔸 CSS Flexbox for layout alignment and responsive sections.  
-- 🔸 Responsive design using media queries.  
-- 🔸 Custom typography using Google Fonts.  
-- 🔸 Icons integration using Font Awesome.  
-- 🔸 Smooth scrolling with `scroll-behavior: smooth`.  
-- 🔸 Advanced positioning techniques (relative, absolute) for layout control.  
-- 🔸 Hover effects and transitions for better user interaction.  
-- 🔸 Consistent spacing, alignment, and reusable CSS classes.  
-- 🔸 Clean folder structure and organized assets.
+ ✔  Semantic HTML structure for better readability and SEO.  
+ ✔  CSS Flexbox for layout alignment and responsive sections.  
+ ✔  Responsive design using media queries.  
+ ✔  Custom typography using Google Fonts.  
+ ✔  Icons integration using Font Awesome.  
+ ✔  Smooth scrolling with `scroll-behavior: smooth`.  
+ ✔  Advanced positioning techniques (relative, absolute) for layout control.  
+ ✔  Hover effects and transitions for better user interaction.  
+ ✔  Consistent spacing, alignment, and reusable CSS classes.  
+ ✔  Clean folder structure and organized assets.
 
 ---
 
