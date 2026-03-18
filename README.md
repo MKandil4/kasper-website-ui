@@ -32,7 +32,7 @@ This is a modern multi-section landing page built as a front-end practice projec
 ---
 
 ## 🌐 Live Preview 
-🔗 https://mkandil4.github.io/Template-Two-Kasper/
+🔗 https://mkandil4.github.io/kasper-website-ui/
 
 ## 💻 Source Code   
 🔗 https://github.com/MKandil4/Template-Two-Kasper
