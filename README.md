@@ -1,4 +1,4 @@
-# 🚀 Kasper Landing Page UI (HTML & CSS)
+# 🚀 Kasper Landing Website UI (HTML & CSS)
 
 This is a modern multi-section landing page built as a front-end practice project. It focuses on clean UI design, structured layout, and responsive behavior across different screen sizes using modern CSS techniques.
 
