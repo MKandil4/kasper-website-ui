@@ -12,7 +12,7 @@ This is a modern multi-section landing page built as a front-end practice projec
 ---
 
 ## 📸 Preview
-![Kasper Screenshot](./screenshot.png)
+![Kasper Screenshot](./kasper-screenshot.png)
 
 ---
 
