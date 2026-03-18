@@ -1,7 +1,8 @@
-# 🚀 Template Two – Kasper
+# 🚀 Kasper Landing Page UI (HTML & CSS)
 
-This is a modern, responsive website template built as a front-end practice project. The project focuses on clean layout structure, responsive design, and applying advanced CSS techniques.
+This is a modern multi-section landing page built as a front-end practice project. It focuses on clean UI design, structured layout, and responsive behavior across different screen sizes using modern CSS techniques.
 
+🧩 Project Type: Multi-section Landing Page
 ---
 
 ## 🛠 Built With
@@ -10,18 +11,23 @@ This is a modern, responsive website template built as a front-end practice proj
 
 ---
 
+## 📸 Preview
+![Kasper Screenshot](./screenshot.png)
+
+---
+
 ## 🎯 Key Features & Concepts Practiced
 
- ✔  Semantic HTML structure for better readability and SEO.  
- ✔  CSS Flexbox for layout alignment and responsive sections.  
- ✔  Responsive design using media queries.  
- ✔  Custom typography using Google Fonts.  
- ✔  Icons integration using Font Awesome.  
- ✔  Smooth scrolling with `scroll-behavior: smooth`.  
- ✔  Advanced positioning techniques (relative, absolute) for layout control.  
- ✔  Hover effects and transitions for better user interaction.  
- ✔  Consistent spacing, alignment, and reusable CSS classes.  
- ✔  Clean folder structure and organized assets.
+✔️ Semantic HTML structure for better readability and SEO  
+✔️ Flexbox-based layout system for structured sections  
+✔️ Fully responsive design using media queries  
+✔️ Clean and modern UI design implementation  
+✔️ Google Fonts integration for typography  
+✔️ Font Awesome icons usage  
+✔️ Smooth scrolling behavior  
+✔️ Advanced positioning (relative & absolute)  
+✔️ Hover effects and transitions  
+✔️ Organized and maintainable CSS structure  
 
 ---
 
